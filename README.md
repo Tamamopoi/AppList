@@ -7,6 +7,13 @@
 
 只能用于AD域环境安装程序。大概。
 
+---
+
+![image](https://raw.githubusercontent.com/Tamamopoi/AppList/master/applist.png)
+
+---
+
+
 ## 前置要求
 - 配置myrunas
 
