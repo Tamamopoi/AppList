@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.Properties.Resources.resources
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AppList\bin\Debug\AppList.exe.config
+C:\Users\Administrator\source\repos\AppList\bin\Debug\AppList.exe
+C:\Users\Administrator\source\repos\AppList\bin\Debug\AppList.pdb
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.Form1.resources
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.exe
+C:\Users\Administrator\source\repos\AppList\obj\Debug\AppList.pdb
